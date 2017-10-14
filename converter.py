@@ -1,5 +1,5 @@
 #currency converter like google
-
+# -*- coding: utf-8 -*-
 rates = {
     "usd" : {
         "value" : 1,
